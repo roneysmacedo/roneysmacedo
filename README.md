@@ -5,7 +5,7 @@
 
 🌱 Estudando  Azure e AWS
 
-📫 Contate-me roneymacedobasquete@gmail.com
+📫 Contate-me rsminfo2018@gmail.com
 
 <div align="left">
   <a href="https://github.com/roneymacedo">
